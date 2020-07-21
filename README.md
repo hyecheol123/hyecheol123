@@ -8,12 +8,13 @@
 #### 🔭 I’m currently working on/at ...
  - Finalizing [KSEA-Wisconsin Website](https://github.com/KSEAWisconsin/KSEAWeb-Jekyll)
    - [Demo](http://kseaweb.hcjang.com)
- - Lee's Lab (UW-Madison, Department of Electrical and Computer Engineering)
+ - Prof. Lee, Kangwook Lab (UW-Madison, Department of Electrical and Computer Engineering)
    - Project: Deep Learning-based Approach to Prediction of Volcanic Fallout Spread
- - Initiated New Projects
+ - On-going Projects
    - Organization Finance Journal
-   - Tech Blogs
+   - Tech Blog
  - Taking Summer Courses (UW-Madison)
+   - Artificial Intelligence (CS540) / Managing Organization (MHR300)
 
 #### 🌱 I’m currently learning ...
  - Machine Learning / Reinforcement Learning
