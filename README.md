@@ -30,15 +30,13 @@
 #### 🏫 Education
  - **University of Wisconsin - Madison** (Jul. 2018 - Aug. 2020, (Estimated) Sep. 2022 - May. 2024)
    - B.Sc Computer Science and Statistics, Cert. Entrepreneurship
-   - GPA: 3.895/4.0
-   - Dean's List: Fall 2018, Spring 2019, Spring 2020
  - **Busan Science High School** (Mar. 2015 - Feb. 2017)
 
 #### ⚽ Activities
  - **Chief Technology Officer, *Korean-American Scientists and Engineers Association - Wisconsin Chapter*** (Jan. 2019 - Aug. 2020)
  - **Judge/Staff, *19th International Robot Olympiad*** (Jul. - Aug, 2017)
 
-#### 🏆 Awards
+#### 🏆 Awards / Certificates
  - **Silver Medal, *18th International Robot Olympiad*** (Dec. 2016)
  - **4th Place Award, *62th National Science Contest, Earth Science Field (전국과학전람회)*** (Oct. 2016)
  - **2nd Place Award, *11th Busan Future Scientist Award (부산미래과학자상)*** (Dec. 2015)
