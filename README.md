@@ -7,13 +7,12 @@
 
 #### 🔭 I’m currently working on/at ...
  - Finalizing [KSEA-Wisconsin Website](https://github.com/KSEAWisconsin/KSEAWeb-Jekyll)
-   - [Live Webpage](http://kseaweb.hcjang.com)
+   - [Live Webpage](http://kseawisc.org/)
+   - [Demo](http://kseaweb.hcjang.com)
  - Prof. Lee, Kangwook Lab (UW-Madison, Department of Electrical and Computer Engineering)
  - On-going Projects
    - Organization Finance Journal
    - Tech Blog
- - Taking Summer Courses (UW-Madison)
-   - Artificial Intelligence (CS540)
 
 #### 🌱 I’m currently learning ...
  - Machine Learning / Reinforcement Learning
@@ -22,6 +21,7 @@
    - Microsoft Azure
  - Java Spring
  - JavaScript/TypeScript
+ - Rust
 
 #### 📫 How to reach me: ...
  - Email: [hyecheol.jang@wisc.edu](mailto:hyecheol.jang@wisc.edu) / [hyecheol123@gmail.com](mailto:hyecheol123@gmail.com)
