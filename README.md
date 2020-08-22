@@ -8,7 +8,6 @@
 #### 🔭 I’m currently working on/at ...
  - Finalizing [KSEA-Wisconsin Website](https://github.com/KSEAWisconsin/KSEAWeb-Jekyll)
    - [Live Webpage](http://kseawisc.org/)
-   - [Demo](http://kseaweb.hcjang.com)
  - Prof. Lee, Kangwook Lab (UW-Madison, Department of Electrical and Computer Engineering)
  - On-going Projects
    - Organization Finance Journal
