@@ -18,7 +18,6 @@
    - PyTorch, TensorFlow
  - Clouds
    - Microsoft Azure
- - Java Spring
  - JavaScript/TypeScript
  - Rust
 
@@ -39,6 +38,8 @@
  - **Silver Medal, *18th International Robot Olympiad*** (Dec. 2016)
  - **4th Place Award, *62th National Science Contest, Earth Science Field (전국과학전람회)*** (Oct. 2016)
  - **2nd Place Award, *11th Busan Future Scientist Award (부산미래과학자상)*** (Dec. 2015)
+
+#### 🔭 Previous Projects
 
 <!--
 **hyecheol123/hyecheol123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
