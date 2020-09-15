@@ -6,9 +6,7 @@
 [![Hyecheol's github stats](https://github-readme-stats.vercel.app/api?username=hyecheol123)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🔭 I’m currently working on/at ...
- - Finalizing [KSEA-Wisconsin Website](https://github.com/KSEAWisconsin/KSEAWeb-Jekyll)
-   - [Live Webpage](http://kseawisc.org/)
- - Prof. Lee, Kangwook Lab (UW-Madison, Department of Electrical and Computer Engineering)
+ - Tech Lead @ uniQon
  - On-going Projects
    - Organization Finance Journal
    - Tech Blog
@@ -40,6 +38,8 @@
  - **2nd Place Award, *11th Busan Future Scientist Award (부산미래과학자상)*** (Dec. 2015)
 
 #### 🔭 Previous Projects
+ - [KSEA-Wisconsin Website](https://github.com/KSEAWisconsin/KSEAWeb-Jekyll)
+   - [Live Webpage](http://kseawisc.org/)
 
 <!--
 **hyecheol123/hyecheol123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
