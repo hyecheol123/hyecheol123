@@ -4,7 +4,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyecheol123)](https://hits.seeyoufarm.com)  
 
 <!-- TODO: Need to Add Social Links after Tech Blogs Deployed -->  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hyecheol123)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyecheol123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Hyecheol's github stats](https://github-readme-stats.vercel.app/api?username=hyecheol123)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🔭 I’m currently working on/at ...
