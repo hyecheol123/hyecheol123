@@ -5,7 +5,7 @@
 
 <!-- TODO: Need to Add Social Links after Tech Blogs Deployed -->  
 [![trophy](https://github-profile-trophy.vercel.app/?username=hyecheol123)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyecheol123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyecheol123&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 [![Hyecheol's github stats](https://github-readme-stats.vercel.app/api?username=hyecheol123)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🔭 I’m currently working on/at ...
