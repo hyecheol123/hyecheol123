@@ -1,7 +1,9 @@
 ## Hyecheol (Jerry) Jang
 👋 Greetings, Thanks for visiting my GitHub Profile.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyecheol123)](https://hits.seeyoufarm.com)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyecheol123)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyecheol123@gmail.com)](mailto:hyecheol123@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhyecheol/)](https://www.linkedin.com/in/jhyecheol/)
 
 <!-- TODO: Need to Add Social Links after Tech Blogs Deployed -->  
 [![trophy](https://github-profile-trophy.vercel.app/?username=hyecheol123)](https://github.com/ryo-ma/github-profile-trophy)
@@ -9,18 +11,13 @@
 [![Hyecheol's github stats](https://github-readme-stats.vercel.app/api?username=hyecheol123)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🔭 I’m currently working on/at ...
- - Tech Lead @ uniQon
+ - Social Service Agent @ Repulic of Korea Army
  - On-going Projects
-   - Organization Finance Journal
-   - Tech Blog
+   - Make BSS Great Again (BSS Alumni Website)
 
 #### 🌱 I’m currently learning ...
- - Machine Learning / Reinforcement Learning
-   - PyTorch, TensorFlow
- - Clouds
-   - Microsoft Azure
- - JavaScript/TypeScript
- - Rust
+ - Typescript, C#, PHP
+ - Laravel, Blazor, React
 
 #### 📫 How to reach me: ...
  - Email: [hyecheol.jang@wisc.edu](mailto:hyecheol.jang@wisc.edu) / [hyecheol123@gmail.com](mailto:hyecheol123@gmail.com)
@@ -32,6 +29,7 @@
  - **Busan Science High School** (Mar. 2015 - Feb. 2017)
 
 #### ⚽ Activities
+ - **Technical Lead, *uniQon*** (Apr. 2020 - Oct. 2020)
  - **Chief Technology Officer, *Korean-American Scientists and Engineers Association - Wisconsin Chapter*** (Jan. 2019 - Aug. 2020)
  - **Judge/Staff, *19th International Robot Olympiad*** (Jul. - Aug, 2017)
 
