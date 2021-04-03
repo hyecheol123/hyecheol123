@@ -8,7 +8,7 @@
 <!-- TODO: Need to Add Social Links after Tech Blogs Deployed -->  
 [![trophy](https://github-profile-trophy.vercel.app/?username=hyecheol123)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyecheol123&layout=compact&langs_count=10&exclude_repo=MakeBSSGreatAgain-API-Documentation,CV-Resume-CoverLetter,Summary_of_QT-Opt,UWMadison_Beamer_Template,Arranging_an_Audio_Track_to_other_Genres_by_using_CycleGAN-based_Deep_Learning_Model_Report,Notes_From_Deep_Learning_with_PyTorch,Proposal_Deep_Learning-based_Approach_to_Prediction_of_Volcanic_Fallout_Spread,STAT333-Edugression)](https://github.com/anuraghazra/github-readme-stats)
-[![Hyecheol's github stats](https://github-readme-stats.vercel.app/api?username=hyecheol123)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyecheol's github stats](https://github-readme-stats.vercel.app/api?username=hyecheol123&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🔭 I’m currently working on/at ...
  - Social Service Agent @ Repulic of Korea Army
